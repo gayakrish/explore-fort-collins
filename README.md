@@ -4,7 +4,9 @@ This project is for seacrhing and finding information about places/businesses in
 
 ## How to Launch ##
 
-Download and extract the zip file from this repository. Open index.html from your browser and explore the map.
+1. Use the live version [here](https://gayakrish.github.io/explore-fort-collins/)
+(or)
+2. Download and extract the zip file from this repository. Open index.html from your browser and explore the map.
 
 ## How to Explore the Map
 
